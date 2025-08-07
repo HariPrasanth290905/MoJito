@@ -25,10 +25,10 @@ function Navbar() {
     return (
         <nav>
             <div>
-                <a href="#home" className='flex items-center gap-3'>
+                <a href="#hero" className='flex items-center gap-3'>
                     <img src="/images/logo2.png" className='w-12' alt="logo" />
 
-                    <p className=''>IrahIqu</p>
+                    <p >IrahIqu</p>
 
                 </a>
 
